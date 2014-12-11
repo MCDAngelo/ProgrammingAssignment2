@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## The makeCacheMatrix and cacheSolve functions allow a user to cache the inverse
+## of a matrix in order to avoid having to compute it repeatedly
 
 ## The makeCacheMatrix function creates a special "matrix", which is really a list 
 ## containing a function to do the following things:
